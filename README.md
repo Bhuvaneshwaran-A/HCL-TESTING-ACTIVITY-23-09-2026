@@ -1,6 +1,9 @@
 # HCL TESTING ACTIVITY 23/09/2026
 # Python Practice for Automation Testing
 
+## NAME : SENTHIL KANAGAVEL BALASUNDARAM
+## REGN0 : 212223060254
+## DEPARTMENT: ECE
 ## 📌 About
 
 This repository contains Python programming exercises practiced as part of **Automation Testing Training**.
@@ -122,9 +125,3 @@ These fundamentals can later be applied to **test automation scripts, test data 
 
 
 
-## 👩‍💻 Author
-
-**SENTHIL KANAGAVEL BALASUNDARAM**
-B.E. "ELECTRONICS AND COMMUNICATION ENGINEERING"
-
-**Training:** Automation Testing

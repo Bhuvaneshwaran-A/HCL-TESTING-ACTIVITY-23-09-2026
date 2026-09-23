@@ -120,18 +120,7 @@ These fundamentals can later be applied to **test automation scripts, test data 
 
 ---
 
-## 📁 Repository Structure
 
-```text
-automation-testing-python-practice/
-│
-├── README.md
-├── binary_divisible_by_5.py
-├── count_letters_digits.py
-└── factorial.py
-```
-
----
 
 ## 👩‍💻 Author
 

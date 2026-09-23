@@ -1,9 +1,9 @@
 # HCL TESTING ACTIVITY 23/09/2026
 # Python Practice for Automation Testing
 
-**NAME : SENTHIL KANAGAVEL BALASUNDARAM**
+**NAME : Bhuvaneshwaran A**
 
-**REGN0 : 212223060254**
+**REGN0 : 212223060031**
 
 **DEPARTMENT: ECE**
 ## 📌 About
